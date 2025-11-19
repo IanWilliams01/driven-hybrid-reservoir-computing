@@ -1,4 +1,4 @@
-# hybrid-reservoir-computing
+# driven-hybrid-reservoir-computing
 
 ## Required Packages:
 - **armadillo-code** (≥ 7.800.2)
